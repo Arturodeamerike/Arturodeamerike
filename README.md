@@ -7,10 +7,10 @@
 ## Sobre mi
 
 - ⭐ Skate ⭐ 
-- amente de Crepas y vino
+- Amente de Crepas y vino
 - Futbolista retirado
-- ciberseguridad estudiante
-- amigable undergraund
+- *Ciberseguridad estudiante*
+- Amigable undergr0und
 
 <br>
 
