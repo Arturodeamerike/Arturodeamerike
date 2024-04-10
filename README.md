@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Arturo Lewandowsky 👋</h1>
+</div></div>
+                                  <img src="https://img.freepik.com/foto-gratis/sistema-seguridad-bloquea-datos-seguridad-informatica-generados-ia_188544-26239.jpg?size=626&ext=jpg&ga=GA1.1.1488620777.1712707200&semt=sph">
 
-<!--
-**Arturodeamerike/Arturodeamerike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Skate ⭐ 
+- amente de Crepas y vino
+- Futbolista retirado
+- ciberseguridad estudiante
+- amigable undergraund
+
+<br>
+
+## Proyectos *bombitas*
